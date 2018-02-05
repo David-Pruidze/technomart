@@ -2184,13 +2184,6 @@ img {
           animation-duration: 0.8s;
 }
 
-.popup--error {
-  -webkit-animation-name: error;
-          animation-name: error;
-  -webkit-animation-duration: 0.8s;
-          animation-duration: 0.8s;
-}
-
 .popup__footer {
   padding: 37px 80px;
 
@@ -2243,14 +2236,6 @@ img {
 @keyframes appearance {
   0% {opacity: 0;}
   100% {opacity: 1;}
-}
-
-@-webkit-keyframes error {
-  50% {background-color: #ff5257;}
-}
-
-@keyframes error {
-  50% {background-color: #ff5257;}
 }
 
 /* Write us
