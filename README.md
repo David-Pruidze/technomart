@@ -8,17 +8,17 @@
 <table>
   <tr>
     <td>Главная страница</td>
-    <td>Внутренняя страница</td>
+    <td>Внутренняя страница ["Каталог"]</td>
   </tr>
   <tr>
     <td>
       <a href="https://kseveru.github.io/img/preview-technomart.png" title="Открыть макет">
-        <img src="https://kseveru.github.io/img/preview-technomart-small.png">
+        <img src="https://kseveru.github.io/img/preview-technomart-small.png" alt="макет главной страницы">
       </a>
     </td>
     <td>
       <a href="https://kseveru.github.io/img/preview-technomart-catalog.png" title="Открыть макет">
-        <img src="https://kseveru.github.io/img/preview-technomart-catalog-small.png">
+        <img src="https://kseveru.github.io/img/preview-technomart-catalog-small.png" alt="макет внутренней страницы">
       </a>
     </td>
   </tr>
